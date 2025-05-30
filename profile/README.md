@@ -1,4 +1,4 @@
-![Gambler Goblins Banner](https://raw.githubusercontent.com/Gambler-Goblins/.github/profile/banner.png)
+![Gambler Goblins](banner.png)
 
 # 🎲 Gambler Goblins
 
