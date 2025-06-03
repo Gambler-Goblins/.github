@@ -33,10 +33,8 @@ body {
 
 .footer-container a {
     color: inherit;
-    /* Наследует цвет текста футера */
 }
 
-/* Убираем все состояния ссылок */
 .footer-container a:hover,
 .footer-container a:focus,
 .footer-container a:active,
